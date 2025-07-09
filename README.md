@@ -6,6 +6,7 @@
 | ------ | ----------- | -------
 | ✅ | Inkscape 1.4.2    |
 | ✅ | Google Chrome 138 |
+| ✅ | Photopea 5.6      |
 | ⚠️ | Krita 5.2.9       | No variable font support.
 | ⚠️ | Blender 4.4.3     | No variable font support, no Boolean operations on text objects. Only default weight works with text objects converted to meshes.
 | ⚠️ | GIMP 3.0.4        | No variable font support, line-spacing is moronic.
