@@ -10,34 +10,34 @@
     </axis>
   </axes>
   <sources>
-    <source filename="KumikoInverse-Thin.ufo" familyname="KumikoInverse" stylename="Thin">
+    <source filename="KumikoPunch-Thin.ufo" familyname="KumikoPunch" stylename="Thin">
       <location>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="KumikoInverse-Regular.ufo" familyname="KumikoInverse" stylename="Regular">
+    <source filename="KumikoPunch-Regular.ufo" familyname="KumikoPunch" stylename="Regular">
       <location>
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="KumikoInverse-Bold.ufo" familyname="KumikoInverse" stylename="Bold">
+    <source filename="KumikoPunch-Bold.ufo" familyname="KumikoPunch" stylename="Bold">
       <location>
         <dimension name="weight" xvalue="700"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="KumikoInverse" stylename="Thin">
+    <instance familyname="KumikoPunch" stylename="Thin">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
     </instance>
-    <instance familyname="KumikoInverse" stylename="Regular">
+    <instance familyname="KumikoPunch" stylename="Regular">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
     </instance>
-    <instance familyname="KumikoInverse" stylename="Bold">
+    <instance familyname="KumikoPunch" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
       </location>

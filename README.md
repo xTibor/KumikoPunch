@@ -1,4 +1,4 @@
-# KumikoInverse
+# KumikoPunch
 
 ## Software support
 
