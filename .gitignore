@@ -1,2 +1,3 @@
 src/*.ufo
-otf/*.otf
+build/*.otf
+build/*.zip
