@@ -1,5 +1,10 @@
 # KumikoPunch
 
+A variable OpenType font for designing Kumiko panels or punching
+Kumiko patterns into 3D models.
+
+![Screenshot](doc/Screenshot-20250710.png)
+
 ## Software support
 
 | Status | Application | Comment
@@ -18,3 +23,8 @@
 | ❌ | Dune 3D 1.3.0     | Font selector crashes.
 
 **Legend:** ✅ Works - ⚠️ Partially works - ❌ Broken
+
+## License
+
+This font is licensed under the SIL Open Font License version 1.1 with
+reserved font name "KumikoPunch".
