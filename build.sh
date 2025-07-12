@@ -11,7 +11,7 @@ fontforge -script fontforge-convert.pe src/KumikoPunch-Regular.sfd
 fontforge -script fontforge-convert.pe src/KumikoPunch-Bold.sfd
 
 fontmake                                         \
-    --output         variable                    \
+    --output         variable-cff2               \
     --output-path    build/KumikoPunch.otf       \
     --mm-designspace src/KumikoPunch.designspace \
     --keep-overlaps
