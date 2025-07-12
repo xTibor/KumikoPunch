@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <designspace format="5.0">
   <axes>
     <axis tag="wght" name="weight" minimum="100" maximum="700" default="400">
       <labels>
         <label uservalue="100" name="Thin"/>
-        <label uservalue="400" name="Regular" elidable="true"/>
+        <label uservalue="400" name="Regular"/>
         <label uservalue="700" name="Bold"/>
       </labels>
     </axis>
@@ -29,17 +29,17 @@
   <instances>
     <instance familyname="KumikoPunch" stylename="Thin">
       <location>
-        <dimension name="Weight" xvalue="100"/>
+        <dimension name="weight" xvalue="100"/>
       </location>
     </instance>
     <instance familyname="KumikoPunch" stylename="Regular">
       <location>
-        <dimension name="Weight" xvalue="400"/>
+        <dimension name="weight" xvalue="400"/>
       </location>
     </instance>
     <instance familyname="KumikoPunch" stylename="Bold">
       <location>
-        <dimension name="Weight" xvalue="700"/>
+        <dimension name="weight" xvalue="700"/>
       </location>
     </instance>
   </instances>
