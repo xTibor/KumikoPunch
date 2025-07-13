@@ -121,32 +121,27 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4"
-       inkscape:path-effect="#path-effect4">
+       id="g4">
       <path
          style="fill:#000000;fill-rule:evenodd;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
          d="M 7.9472656,31.552734 V 233.03125 C 26.163795,196.17823 35.015625,164.11914 35.015625,132.29297 c 0,-31.82617 -8.85183,-63.887213 -27.0683594,-100.740236 z"
          id="path1"
-         sodipodi:nodetypes="ccc"
-         inkscape:original-d="M 0,0 C 57.283971,99.218748 57.283971,165.36459 0,264.58333 Z" />
+         sodipodi:nodetypes="cccc" />
       <path
          style="fill:#000000;fill-rule:evenodd;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
          d="M 23.351562,22.660156 C 46.158994,56.862652 69.498186,80.557783 97.060547,96.470703 124.62237,112.38331 156.81109,120.74586 197.83398,123.39648 Z"
          id="path2"
-         sodipodi:nodetypes="ccc"
-         inkscape:original-d="M 0,0 C 57.283971,99.218748 114.56794,132.29167 229.13588,132.29166 Z" />
+         sodipodi:nodetypes="ccc" />
       <path
          style="fill:#000000;fill-rule:evenodd;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
          d="m 197.83398,141.18555 c -41.02203,2.65088 -73.21198,11.01496 -100.773433,26.92773 -27.5623,15.91326 -50.901597,39.60805 -73.708985,73.81055 z"
          id="path3"
-         sodipodi:nodetypes="ccc"
-         inkscape:original-d="M 0,264.58333 C 57.283971,165.36459 114.56794,132.29167 229.13587,132.29166 Z" />
+         sodipodi:nodetypes="ccc" />
       <path
          style="fill:#000000;fill-rule:evenodd;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
-         d="m 41.283203,71.503906 c 12.861925,41.639964 12.861817,79.936234 0,121.576174 C 70.913536,161.12127 104.07812,141.97246 146.57031,132.29102 104.07805,122.60991 70.913595,103.46248 41.283203,71.503906 Z"
+         d="m 41.283203,71.503906 c 6.430962,20.819982 9.646417,40.804044 9.646403,60.788094 -1.3e-5,19.98406 -3.215494,39.96811 -9.646403,60.78808 14.815166,-15.9794 30.513896,-28.75631 47.820357,-38.74854 17.30646,-9.99224 36.22066,-17.1998 57.46675,-22.04052 C 125.32418,127.45047 106.41,120.24333 89.103556,110.25151 71.797111,100.25969 56.098399,87.483193 41.283203,71.503906 Z"
          id="path4"
-         sodipodi:nodetypes="cccc"
-         inkscape:original-d="M 0,0 C 57.283971,99.218748 114.56794,132.29167 229.13588,132.29167 114.56794,132.29167 57.283971,165.36459 0,264.58333 57.283971,165.36459 57.283971,99.218748 0,0 Z" />
+         sodipodi:nodetypes="cscscsc" />
     </g>
   </g>
 </svg>
