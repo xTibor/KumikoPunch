@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1751764603
-ModificationTime: 1752522777
+ModificationTime: 1752526874
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,10 +44,10 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114104 8 2
+WinInfo: 65272 8 2
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114113 67
+BeginChars: 1114113 75
 
 StartChar: a
 Encoding: 97 97 0
@@ -1936,6 +1936,62 @@ SplineSet
  433.01171875 376.376953125 l 1
  66.140625 800 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni2000
+Encoding: 8192 8192 67
+Width: 500
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2001
+Encoding: 8193 8193 68
+Width: 1000
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2002
+Encoding: 8194 8194 69
+Width: 500
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2003
+Encoding: 8195 8195 70
+Width: 1000
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 71
+Width: 866
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni200B
+Encoding: 8203 8203 72
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni3000
+Encoding: 12288 12288 73
+Width: 1000
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniFEFF
+Encoding: 65279 65279 74
+Width: 0
+Flags: HW
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
