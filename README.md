@@ -11,10 +11,10 @@ Kumiko patterns into 3D models.
 | ------ | ----------- | -------
 | ✅ | Inkscape 1.4.2    |
 | ✅ | Google Chrome 138 |
-| ✅ | Photopea 5.6      |
 | ⚠️ | Krita 5.2.9       | No variable font axis support, only named instances work.
 | ⚠️ | Blender 4.4.3     | No variable font axis support, only default weight works. No Boolean operations on text objects, must be converted to meshes.
 | ⚠️ | GIMP 3.0.4        | No variable font axis support, only named instances work. Line-spacing is moronic.
+| ❌ | Photopea 5.6      | Has variable font support but CFF2 outlines are broken. Only legacy glyph formats work.
 | ❌ | FreeCAD 1.0.1     | No multiline text support, no variable font support.
 | ❌ | SolveSpace 3.1    | No multiline text support, no variable font support.
 | ❌ | OpenSCAD 2021.01  | No multiline text support, no variable font support.
