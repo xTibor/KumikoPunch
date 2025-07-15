@@ -131,7 +131,7 @@
      id="defs1">
     <inkscape:path-effect
        effect="offset"
-       id="path-effect1"
+       id="path-effect5"
        is_visible="true"
        lpeversion="1.3"
        linejoin_type="miter"
@@ -145,11 +145,34 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="font-variation-settings:'wght' 359;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
-       d="M 7.9472656,7.9472656 V 256.63672 H 256.63672 V 7.9472656 Z"
-       id="path1"
-       inkscape:path-effect="#path-effect1"
-       inkscape:original-d="M 0,0 H 264.58333 V 264.58333 H 0 Z" />
+    <g
+       id="g5"
+       inkscape:path-effect="#path-effect5">
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 21.714844,21.714844 102.66211,161.91992 242.86914,242.86914 161.91992,102.66211 Z"
+         id="path1"
+         inkscape:original-d="M 0,0 167.73911,96.844219 264.58333,264.58333 96.844219,167.73911 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 29.660156,7.9472656 166.43164,86.912109 245.39844,7.9472656 Z"
+         id="path2"
+         inkscape:original-d="M 5.6032079e-5,9.7050409e-5 167.73911,96.844219 264.58333,0 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 256.63672,19.185547 -78.9668,78.964844 78.9668,136.773439 z"
+         id="path3"
+         inkscape:original-d="M 167.73911,96.844219 264.58333,0 v 264.58333 z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 7.9472656,29.660156 V 245.39844 l 78.9648434,-78.9668 z"
+         id="path4"
+         inkscape:original-d="M 1.6809617e-4,9.7050367e-5 96.844219,167.73911 0,264.58333 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 98.150391,177.66992 -78.964844,78.9668 H 234.92383 Z"
+         id="path5"
+         inkscape:original-d="M 4.553418e-6,264.58332 96.844217,167.73911 264.58333,264.58332 Z" />
+    </g>
   </g>
 </svg>

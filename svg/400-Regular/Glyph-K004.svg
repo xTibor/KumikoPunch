@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
-   sodipodi:docname="Glyph-K001.svg"
+   sodipodi:docname="Glyph-K002.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -131,7 +131,7 @@
      id="defs1">
     <inkscape:path-effect
        effect="offset"
-       id="path-effect1"
+       id="path-effect5"
        is_visible="true"
        lpeversion="1.3"
        linejoin_type="miter"
@@ -145,11 +145,34 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="font-variation-settings:'wght' 359;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
-       d="M 7.9472656,7.9472656 V 256.63672 H 256.63672 V 7.9472656 Z"
-       id="path1"
-       inkscape:path-effect="#path-effect1"
-       inkscape:original-d="M 0,0 H 264.58333 V 264.58333 H 0 Z" />
+    <g
+       id="g5"
+       inkscape:path-effect="#path-effect5">
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 242.86914,21.714844 102.66211,102.66211 21.714844,242.86914 161.91992,161.91992 Z"
+         id="path1"
+         inkscape:original-d="M 264.58333,0 96.84422,96.844219 0,264.58333 167.73911,167.73911 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 19.185547,7.9472656 98.150391,86.912109 234.92187,7.9472656 Z"
+         id="path2"
+         inkscape:original-d="M 264.58327,9.7050409e-5 96.84422,96.844219 0,0 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 7.9472656,19.185547 V 234.92187 L 86.912109,98.150391 Z"
+         id="path3"
+         inkscape:original-d="M 96.84422,96.844219 0,0 v 264.58333 z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 256.63672,29.660156 -78.9668,136.771484 78.9668,78.9668 z"
+         id="path4"
+         inkscape:original-d="M 264.58316,9.7050367e-5 167.73911,167.73911 l 96.84422,96.84422 z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 166.43164,177.66992 29.660156,256.63672 H 245.39844 Z"
+         id="path5"
+         inkscape:original-d="M 264.58333,264.58332 167.73911,167.73911 0,264.58332 Z" />
+    </g>
   </g>
 </svg>

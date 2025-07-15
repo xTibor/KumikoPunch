@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Glyph-K023.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,264.58333"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,264.58333"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="264.58333,264.58333"
+       orientation="1,0"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,132.29166"
+       orientation="0,1"
+       id="guide5"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="132.29166,264.58333"
+       orientation="-1,0"
+       id="guide6"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-60"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-30"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect18"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-30"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       inkscape:path-effect="#path-effect1">
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 43.398437,43.398437 60.050781,72.240234 88.892578,88.892578 72.240234,60.050781 Z"
+         id="path1"
+         inkscape:original-d="M -8.4999999e-5,-4.3333333e-5 83.869498,48.422084 132.29163,132.29167 48.422042,83.869544 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 59.283203,15.884766 81.255859,28.570312 93.941406,15.884766 Z"
+         id="path2"
+         inkscape:original-d="M -5.4999988e-5,6.6666847e-6 83.869498,48.422084 132.29163,-4.3333333e-5 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 116.40625,38.349609 103.7207,51.035156 116.40625,73.007812 Z"
+         id="path3"
+         inkscape:original-d="M 83.869498,48.422084 132.29163,-4.3333333e-5 V 132.29167 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 15.884766,59.283203 V 93.941406 L 28.570312,81.255859 Z"
+         id="path4"
+         inkscape:original-d="M 0,6.6666847e-6 48.422042,83.869544 -8.4999999e-5,132.29167 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 51.035156,103.7207 38.349609,116.40625 H 73.007812 Z"
+         id="path5"
+         inkscape:original-d="M -8.4999999e-5,132.29167 48.422042,83.869544 132.29163,132.29167 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 175.68945,175.68945 192.3418,204.5332 221.18555,221.18555 204.5332,192.3418 Z"
+         id="path1-2"
+         inkscape:original-d="m 132.29166,132.29167 83.86958,48.42212 48.42213,83.86959 -83.86959,-48.42213 z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 191.57617,148.17578 21.97266,12.68555 12.68554,-12.68555 z"
+         id="path2-9"
+         inkscape:original-d="m 132.29169,132.29172 83.86955,48.42207 48.42213,-48.42212 z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 248.69922,170.64062 -12.68555,12.68555 12.68555,21.97266 z"
+         id="path3-1"
+         inkscape:original-d="m 216.16124,180.71379 48.42213,-48.42212 v 132.29171 z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 148.17578,191.57617 v 34.6582 l 12.68555,-12.68554 z"
+         id="path4-2"
+         inkscape:original-d="m 132.29174,132.29172 48.42204,83.86953 -48.42212,48.42213 z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 183.32617,236.01367 -12.68555,12.68555 h 34.65821 z"
+         id="path5-7"
+         inkscape:original-d="m 132.29166,264.58338 48.42212,-48.42213 83.86959,48.42213 z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 221.18555,43.398437 192.33984,60.050781 175.68945,88.892578 204.53516,72.240234 Z"
+         id="path1-0"
+         inkscape:original-d="M 264.58337,-4.711189e-5 216.16125,83.869543 132.29166,132.29167 180.71379,48.422073 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 248.69922,59.283203 -12.68555,21.972656 12.68555,12.685547 z"
+         id="path2-6"
+         inkscape:original-d="M 264.58332,-1.7111889e-5 216.16125,83.869543 264.58338,132.29167 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 213.54883,103.7207 -21.97266,12.68555 h 34.6582 z"
+         id="path3-2"
+         inkscape:original-d="m 216.16125,83.869543 48.42213,48.422127 H 132.29166 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 170.64062,15.884766 12.68555,12.685546 21.97266,-12.685546 z"
+         id="path4-6"
+         inkscape:original-d="M 264.58332,3.288811e-5 180.71379,48.422073 132.29166,-4.711189e-5 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 148.17578,38.349609 V 73.007812 L 160.86133,51.035156 Z"
+         id="path5-1"
+         inkscape:original-d="M 132.29166,-4.711189e-5 180.71379,48.422073 132.29166,132.29167 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 88.892578,175.68945 60.050781,192.33984 43.398437,221.18555 72.240234,204.53516 Z"
+         id="path1-2-8"
+         inkscape:original-d="M 132.29166,132.2917 83.869542,216.16128 -4.8332549e-5,264.58341 48.422082,180.71381 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 116.40625,191.57617 -12.68555,21.97266 12.68555,12.68554 z"
+         id="path2-9-7"
+         inkscape:original-d="m 132.29161,132.29173 -48.422068,83.86955 48.422118,48.42213 z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 81.255859,236.01367 59.283203,248.69922 H 93.941406 Z"
+         id="path3-1-9"
+         inkscape:original-d="m 83.869542,216.16128 48.422118,48.42213 H -4.8332549e-5 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 38.349609,148.17578 12.685547,12.68555 21.972656,-12.68555 z"
+         id="path4-2-2"
+         inkscape:original-d="M 132.29161,132.29178 48.422082,180.71381 -4.8332549e-5,132.29169 Z" />
+      <path
+         style="font-variation-settings:'wght' 100;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="m 15.884766,170.64062 v 34.65821 l 12.685546,-21.97266 z"
+         id="path5-7-0"
+         inkscape:original-d="M -4.8332549e-5,132.2917 48.422082,180.71382 -4.8332549e-5,264.58341 Z" />
+    </g>
+  </g>
+</svg>

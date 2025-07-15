@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Glyph-K016.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,264.58333"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,264.58333"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="264.58333,264.58333"
+       orientation="1,0"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="88.194355,264.58333"
+       orientation="-1,0"
+       id="guide5"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="176.38871,264.58333"
+       orientation="-1,0"
+       id="guide6"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,176.38897"
+       orientation="0,1"
+       id="guide7"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,88.19462"
+       orientation="0,1"
+       id="guide8"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-30"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-30"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g14"
+       inkscape:path-effect="#path-effect14">
+      <path
+         d="m 132.29102,55.335937 -76.955083,76.955083 76.955083,76.95703 76.95703,-76.95703 z"
+         style="font-variation-settings:'wght' 359;fill-rule:evenodd;stroke-miterlimit:100;paint-order:markers stroke fill"
+         id="path14"
+         inkscape:original-d="m 44.09705,132.29167 88.19462,88.19461 88.19461,-88.19461 -88.19461,-88.19462 z" />
+      <path
+         d="m 7.9472656,107.38086 v 49.82226 l 24.9121094,-24.9121 z"
+         style="font-variation-settings:'wght' 359;fill-rule:evenodd;stroke-miterlimit:100;paint-order:markers stroke fill"
+         id="path13"
+         inkscape:original-d="M 0,176.38872 44.09705,132.29167 0,88.194617 Z" />
+      <path
+         d="M 44.097656,143.5293 7.9472656,179.67969 v 76.95703 H 84.902344 l 36.150386,-36.15039 z"
+         style="font-variation-settings:'wght' 359;fill-rule:evenodd;stroke-miterlimit:100;paint-order:markers stroke fill"
+         id="path12"
+         inkscape:original-d="M 88.1941,264.58333 132.29167,220.48628 44.09705,132.29167 0,176.38872 v 88.19461 z" />
+      <path
+         d="m 132.29102,231.72461 -24.91211,24.91211 h 49.82421 z"
+         style="font-variation-settings:'wght' 359;fill-rule:evenodd;stroke-miterlimit:100;paint-order:markers stroke fill"
+         id="path11"
+         inkscape:original-d="M 176.38872,264.58333 132.29167,220.48628 88.1941,264.58333 Z" />
+      <path
+         d="m 220.48633,143.5293 -76.95703,76.95703 36.15039,36.15039 h 76.95703 v -76.95703 z"
+         style="font-variation-settings:'wght' 359;fill-rule:evenodd;stroke-miterlimit:100;paint-order:markers stroke fill"
+         id="path10"
+         inkscape:original-d="m 264.58333,176.38872 -44.09705,-44.09705 -88.19461,88.19461 44.09705,44.09705 h 88.19461 z" />
+      <path
+         d="m 256.63672,107.38086 -24.91211,24.91016 24.91211,24.9121 z"
+         style="font-variation-settings:'wght' 359;fill-rule:evenodd;stroke-miterlimit:100;paint-order:markers stroke fill"
+         id="path9"
+         inkscape:original-d="m 264.58333,88.194617 -44.09705,44.097053 44.09705,44.09705 z" />
+      <path
+         d="M 179.67969,7.9472656 143.5293,44.097656 220.48633,121.05273 256.63672,84.904297 V 7.9472656 Z"
+         style="font-variation-settings:'wght' 359;fill-rule:evenodd;stroke-miterlimit:100;paint-order:markers stroke fill"
+         id="path8"
+         inkscape:original-d="m 176.38872,0 -44.09705,44.09705 88.19461,88.19462 44.09705,-44.097053 V 0 Z" />
+      <path
+         d="M 107.37891,7.9472656 132.29102,32.859375 157.20312,7.9472656 Z"
+         style="font-variation-settings:'wght' 359;fill-rule:evenodd;stroke-miterlimit:100;paint-order:markers stroke fill"
+         id="path7"
+         inkscape:original-d="M 88.1941,0 132.29167,44.09705 176.38872,0 Z" />
+      <path
+         d="M 7.9472656,7.9472656 V 84.904297 L 44.097656,121.05273 121.05273,44.097656 84.902344,7.9472656 Z"
+         style="font-variation-settings:'wght' 359;fill-rule:evenodd;stroke-miterlimit:100;paint-order:markers stroke fill"
+         id="path6"
+         inkscape:original-d="M 0,0 V 88.194617 L 44.09705,132.29167 132.29167,44.09705 88.1941,0 Z" />
+    </g>
+  </g>
+</svg>
