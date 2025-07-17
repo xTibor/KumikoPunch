@@ -20,6 +20,8 @@ Kumiko patterns into 3D models.
 | ❌ | OpenSCAD 2021.01  | No multiline text support, no variable font support.
 | ❌ | LibreCAD 2.2.1.1  | No OpenType font support.
 | ❌ | Tinkercad         | No OpenType font support.
+| ❌ | SketchUp Free     | Only supports built-in fonts.
+| ❌ | PrusaSlicer 2.9.2 | Font selector refuses listing the font for unknown reasons.
 | ❌ | Dune 3D 1.3.0     | Font selector crashes.
 
 **Legend:** ✅ Works - ⚠️ Partially works - ❌ Broken
