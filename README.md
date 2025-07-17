@@ -21,7 +21,7 @@ Kumiko patterns into 3D models.
 | ❌ | LibreCAD 2.2.1.1  | No OpenType font support.
 | ❌ | Tinkercad         | No OpenType font support.
 | ❌ | SketchUp Free     | Only supports built-in fonts.
-| ❌ | PrusaSlicer 2.9.2 | Font selector refuses listing the font for unknown reasons.
+| ❌ | PrusaSlicer 2.9.2 | Silently classifies CFF2 variable fonts as "bad fonts" (their terminology). Caches its naughty list in `fonts.cereal` without proper invalidation on font data changes. Only supports legacy font formats.
 | ❌ | Dune 3D 1.3.0     | Font selector crashes.
 
 **Legend:** ✅ Works - ⚠️ Partially works - ❌ Broken
