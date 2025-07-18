@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Glyph-K051.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-1"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2"
+       inkscape:path-effect="#path-effect2">
+      <path
+         style="font-variation-settings:'wght' 293;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 0.27539063,0.27539063 V 263.92187 L 263.92187,0.27539063 Z"
+         id="path1"
+         inkscape:original-d="M 0,0 H 264.58333 L 0,264.58333 Z" />
+      <path
+         style="font-variation-settings:'wght' 293;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:100;paint-order:markers stroke fill"
+         d="M 264.30859,0.66210937 0.66210937,264.30859 H 264.30859 Z"
+         id="path2"
+         inkscape:original-d="M 0,264.58333 264.58333,0 v 264.58333 z" />
+    </g>
+  </g>
+</svg>

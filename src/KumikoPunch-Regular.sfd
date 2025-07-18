@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1751764736
-ModificationTime: 1752780600
+ModificationTime: 1752855517
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,10 +44,10 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 360 8 6
+WinInfo: 944 8 6
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114113 144
+BeginChars: 1114113 146
 
 StartChar: a
 Encoding: 97 97 0
@@ -4312,6 +4312,42 @@ SplineSet
  560.004882812 330.0390625 l 1
  112.108398438 330.0390625 l 1
  783.95703125 717.927734375 l 1
+EndSplineSet
+EndChar
+
+StartChar: Iotadieresis
+Encoding: 938 938 144
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+72.5126953125 769.962890625 m 1
+ 969.965820312 769.962890625 l 1
+ 969.965820312 -127.490234375 l 1
+ 72.5126953125 769.962890625 l 1
+30.037109375 727.487304688 m 1
+ 927.490234375 -169.965820312 l 1
+ 30.037109375 -169.965820312 l 1
+ 30.037109375 727.487304688 l 1
+EndSplineSet
+EndChar
+
+StartChar: iotadieresis
+Encoding: 970 970 145
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+30.037109375 769.962890625 m 1
+ 927.490234375 769.962890625 l 1
+ 30.037109375 -127.490234375 l 1
+ 30.037109375 769.962890625 l 1
+969.965820312 727.487304688 m 1
+ 969.965820312 -169.965820312 l 1
+ 72.5126953125 -169.965820312 l 1
+ 969.965820312 727.487304688 l 1
 EndSplineSet
 EndChar
 EndChars
