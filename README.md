@@ -7,24 +7,7 @@ Kumiko patterns into 3D models.
 
 ## Software support
 
-| Status | Application | Comment
-| ------ | ----------- | -------
-| ✅ | Inkscape 1.4.2    |
-| ✅ | Google Chrome 138 |
-| ⚠️ | Krita 5.2.9       | No variable font axis support, only named instances work.
-| ⚠️ | Blender 4.4.3     | No variable font axis support, only default weight works. No Boolean operations on text objects, must be converted to meshes.
-| ⚠️ | GIMP 3.0.4        | No variable font axis support, only named instances work. Line-spacing is moronic.
-| ❌ | Photopea 5.6      | Has variable font support but CFF2 outlines are broken. Only legacy glyph formats work.
-| ❌ | FreeCAD 1.0.1     | No multiline text support, no variable font support.
-| ❌ | SolveSpace 3.1    | No multiline text support, no variable font support.
-| ❌ | OpenSCAD 2021.01  | No multiline text support, no variable font support.
-| ❌ | LibreCAD 2.2.1.1  | No OpenType font support.
-| ❌ | Tinkercad         | No OpenType font support.
-| ❌ | SketchUp Free     | Only supports built-in fonts.
-| ❌ | PrusaSlicer 2.9.2 | Silently classifies CFF2 variable fonts as "bad fonts" (their terminology). Caches its naughty list in `fonts.cereal` without proper invalidation on font data changes. Only supports legacy font formats.
-| ❌ | Dune 3D 1.3.0     | Font selector crashes.
-
-**Legend:** ✅ Works - ⚠️ Partially works - ❌ Broken
+For the list of software that support this font, see [`SUPPORT.md`](SUPPORT.md).
 
 ## License
 

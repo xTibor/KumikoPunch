@@ -29,6 +29,7 @@ zip                       \
     build/KumikoPunch.zip \
     build/KumikoPunch.otf \
     OFL.txt               \
-    README.md
+    README.md             \
+    SUPPORT.md
 
 ziptime build/KumikoPunch.zip
