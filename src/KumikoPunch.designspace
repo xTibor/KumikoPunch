@@ -4,7 +4,11 @@
     <axis tag="wght" name="weight" minimum="100" maximum="700" default="400">
       <labels>
         <label uservalue="100" name="Thin"/>
+        <label uservalue="200" name="ExtraLight"/>
+        <label uservalue="300" name="Light"/>
         <label uservalue="400" name="Regular"/>
+        <label uservalue="500" name="Medium"/>
+        <label uservalue="600" name="SemiBold"/>
         <label uservalue="700" name="Bold"/>
       </labels>
     </axis>
@@ -32,9 +36,29 @@
         <dimension name="weight" xvalue="100"/>
       </location>
     </instance>
+    <instance familyname="KumikoPunch" stylename="ExtraLight">
+      <location>
+        <dimension name="weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance familyname="KumikoPunch" stylename="Light">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </instance>
     <instance familyname="KumikoPunch" stylename="Regular">
       <location>
         <dimension name="weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="KumikoPunch" stylename="Medium">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance familyname="KumikoPunch" stylename="SemiBold">
+      <location>
+        <dimension name="weight" xvalue="600"/>
       </location>
     </instance>
     <instance familyname="KumikoPunch" stylename="Bold">
