@@ -5,7 +5,7 @@ FamilyName: KumikoPunch
 Weight: Bold
 Copyright: Copyright (c) 2025, Nagy Tibor <xnagytibor@protonmail.com>
 UComments: "2025-7-6: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 002.000
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1751764795
-ModificationTime: 1752873808
+ModificationTime: 1752938993
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
