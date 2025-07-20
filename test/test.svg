@@ -1,0 +1,37 @@
+<svg width="1000" height="2500" viewBox="0 0 1000 2500" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="100" font-family="KumikoPunch" font-size="100">
+        <tspan x="0" dy="50" font-weight="100">óÓóÓóÓ</tspan>
+        <tspan x="0" dy="50" font-weight="100">BbBbBb</tspan>
+        <tspan x="0" dy="50" font-weight="100">bBbBbB</tspan>
+        <tspan x="0" dy="50" font-weight="200">BbBbBb</tspan>
+        <tspan x="0" dy="50" font-weight="200">bBbBbB</tspan>
+        <tspan x="0" dy="50" font-weight="300">BbBbBb</tspan>
+        <tspan x="0" dy="50" font-weight="300">bBbBbB</tspan>
+        <tspan x="0" dy="50" font-weight="400">BbBbBb</tspan>
+        <tspan x="0" dy="50" font-weight="400">bBbBbB</tspan>
+        <tspan x="0" dy="50" font-weight="500">BbBbBb</tspan>
+        <tspan x="0" dy="50" font-weight="500">bBbBbB</tspan>
+        <tspan x="0" dy="50" font-weight="600">BbBbBb</tspan>
+        <tspan x="0" dy="50" font-weight="600">bBbBbB</tspan>
+        <tspan x="0" dy="50" font-weight="700">BbBbBb</tspan>
+        <tspan x="0" dy="50" font-weight="700">bBbBbB</tspan>
+        <tspan x="0" dy="50" font-weight="700">ŰűŰűŰű</tspan>
+    </text>
+
+    <text x="0" y="1000" font-family="KumikoPunch" font-size="100">
+        <tspan x="0" dy="100" font-weight="100">ΟοΟοΟο</tspan>
+        <tspan x="0" dy="100" font-weight="100">οΟοΟοΟ</tspan>
+        <tspan x="0" dy="100" font-weight="200">ΟοΟοΟο</tspan>
+        <tspan x="0" dy="100" font-weight="200">οΟοΟοΟ</tspan>
+        <tspan x="0" dy="100" font-weight="300">ΟοΟοΟο</tspan>
+        <tspan x="0" dy="100" font-weight="300">οΟοΟοΟ</tspan>
+        <tspan x="0" dy="100" font-weight="400">ΟοΟοΟο</tspan>
+        <tspan x="0" dy="100" font-weight="400">οΟοΟοΟ</tspan>
+        <tspan x="0" dy="100" font-weight="500">ΟοΟοΟο</tspan>
+        <tspan x="0" dy="100" font-weight="500">οΟοΟοΟ</tspan>
+        <tspan x="0" dy="100" font-weight="600">ΟοΟοΟο</tspan>
+        <tspan x="0" dy="100" font-weight="600">οΟοΟοΟ</tspan>
+        <tspan x="0" dy="100" font-weight="700">ΟοΟοΟο</tspan>
+        <tspan x="0" dy="100" font-weight="700">οΟοΟοΟ</tspan>
+    </text>
+</svg>
