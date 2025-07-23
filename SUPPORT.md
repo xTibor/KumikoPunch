@@ -6,6 +6,7 @@
 | ------ | ----------- | -------
 | ✅ | Inkscape 1.4.2         |
 | ✅ | Google Chrome 138      |
+| ✅ | Qt 6.7+                |
 | ⚠️ | Krita 5.2.11           | No variable font axis support, only named instances work.
 | ⚠️ | LibreOffice 25.2.4.3   | No variable font axis support, only named instances work.
 | ⚠️ | GIMP 3.0.4             | No variable font axis support, only named instances work. Line-spacing is moronic, no proportional spacing.
