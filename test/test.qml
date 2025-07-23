@@ -1,3 +1,5 @@
+#!/usr/bin/env qml6
+
 import QtQuick
 import QtQuick.Controls
 
