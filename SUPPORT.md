@@ -12,6 +12,7 @@
 | ⚠️ | LibreOffice 25.2.4.3   | No variable font axis support, only named instances work.
 | ⚠️ | GIMP 3.0.4             | No variable font axis support, only named instances work. Line-spacing is moronic, no proportional spacing.
 | ⚠️ | Pixlr Editor           | No variable font axis support, only default weight works. Line-spacing is moronic, no proportional spacing.
+| ⚠️ | PixiEditor 2.0 Beta    | No variable font axis support, only default weight works. Line-spacing is moronic, changing the font size automatically changes the line-spacing non-proportionally.
 | ⚠️ | Karbon 25.04.3         | No variable font axis support, only default weight works. Line-spacing is moronic, proportional spacing cannot go below 85%, fixed spacing is hard to set properly.
 | ⚠️ | Blender 4.5.0          | No variable font axis support, only default weight works. No Boolean operations on text objects, must be converted to meshes.
 | ❌ | Photopea 5.6           | Has variable font support but CFF2 outlines are broken. Only legacy glyph formats work.
