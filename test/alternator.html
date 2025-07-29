@@ -30,19 +30,19 @@
         }
 
         function refresh_kumiko() {
-            const kumiko_symbols = $("kumiko_symbols").value;
-            const kumiko_width = parseInt($("kumiko_width").value);
-            const kumiko_height = parseInt($("kumiko_height").value);
-            const kumiko_alternate = $("kumiko_alternate").checked;
-            const kumiko_parity = $("kumiko_parity").checked ? 1 : 0;
-            const kumiko_condensed = $("kumiko_condensed").checked;
-            const kumiko_stagger = $("kumiko_stagger").checked;
+            const kumiko_symbols    = $("kumiko_symbols"   ).value;
+            const kumiko_alternate  = $("kumiko_alternate" ).checked;
+            const kumiko_condensed  = $("kumiko_condensed" ).checked;
+            const kumiko_stagger    = $("kumiko_stagger"   ).checked;
             const kumiko_horizontal = $("kumiko_horizontal").checked;
-            const kumiko_vertical = $("kumiko_vertical").checked;
-            const kumiko_shift_a = parseInt($("kumiko_shift_a").value);
-            const kumiko_shift_b = parseInt($("kumiko_shift_b").value);
-            const kumiko_shift_c = parseInt($("kumiko_shift_c").value);
-            const kumiko_shift_d = parseInt($("kumiko_shift_d").value);
+            const kumiko_vertical   = $("kumiko_vertical"  ).checked;
+            const kumiko_parity     = $("kumiko_parity"    ).checked ? 1 : 0;
+            const kumiko_width      = parseInt($("kumiko_width"  ).value);
+            const kumiko_height     = parseInt($("kumiko_height" ).value);
+            const kumiko_shift_a    = parseInt($("kumiko_shift_a").value);
+            const kumiko_shift_b    = parseInt($("kumiko_shift_b").value);
+            const kumiko_shift_c    = parseInt($("kumiko_shift_c").value);
+            const kumiko_shift_d    = parseInt($("kumiko_shift_d").value);
 
             let kumiko_data = "";
 
@@ -82,20 +82,15 @@
         }
 
         document.addEventListener("DOMContentLoaded", () => {
-            $("kumiko_symbols").addEventListener("change", refresh_kumiko);
-            $("kumiko_width").addEventListener("change", refresh_kumiko);
-            $("kumiko_height").addEventListener("change", refresh_kumiko);
-            $("kumiko_alternate").addEventListener("change", refresh_kumiko);
-            $("kumiko_parity").addEventListener("change", refresh_kumiko);
-            $("kumiko_condensed").addEventListener("change", refresh_kumiko);
-            $("kumiko_stagger").addEventListener("change", refresh_kumiko);
-            $("kumiko_horizontal").addEventListener("change", refresh_kumiko);
-            $("kumiko_vertical").addEventListener("change", refresh_kumiko);
-            $("kumiko_shift_a").addEventListener("change", refresh_kumiko);
-            $("kumiko_shift_b").addEventListener("change", refresh_kumiko);
-            $("kumiko_shift_c").addEventListener("change", refresh_kumiko);
-            $("kumiko_shift_d").addEventListener("change", refresh_kumiko);
-
+            [
+                "kumiko_symbols",   "kumiko_width",      "kumiko_height",
+                "kumiko_alternate", "kumiko_parity",     "kumiko_condensed",
+                "kumiko_stagger",   "kumiko_horizontal", "kumiko_vertical",
+                "kumiko_shift_a",   "kumiko_shift_b",    "kumiko_shift_c",
+                "kumiko_shift_d",
+            ].forEach((id) => {
+                $(id).addEventListener("change", refresh_kumiko);
+            });
             refresh_kumiko();
         });
     </script>
