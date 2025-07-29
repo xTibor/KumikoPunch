@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            row-gap: 10px;
+        }
+
+        label {
+            display: inline-block;
+            text-align: right;
+            width: 100px;
+        }
+
+        textarea {
+            font-family: "KumikoPunch";
+            font-size: 100px;
+        }
+    </style>
+    <script>
+        function $(id) {
+            return document.getElementById(id);
+        }
+
+        function rem_euclid(a, rhs) {
+              return ((a % rhs) + rhs) % rhs;
+        }
+
+        function refresh_kumiko() {
+            const kumiko_symbols = $("kumiko_symbols").value;
+            const kumiko_width = parseInt($("kumiko_width").value);
+            const kumiko_height = parseInt($("kumiko_height").value);
+            const kumiko_alternate = $("kumiko_alternate").checked;
+            const kumiko_parity = $("kumiko_parity").checked ? 1 : 0;
+            const kumiko_condensed = $("kumiko_condensed").checked;
+            const kumiko_stagger = $("kumiko_stagger").checked;
+            const kumiko_horizontal = $("kumiko_horizontal").checked;
+            const kumiko_vertical = $("kumiko_vertical").checked;
+            const kumiko_shift_a = parseInt($("kumiko_shift_a").value);
+            const kumiko_shift_b = parseInt($("kumiko_shift_b").value);
+            const kumiko_shift_c = parseInt($("kumiko_shift_c").value);
+            const kumiko_shift_d = parseInt($("kumiko_shift_d").value);
+
+            let kumiko_data = "";
+
+            for (let y = 0; y < kumiko_height; ++y) {
+                if (kumiko_stagger && ((y % 2) == 1)) {
+                    kumiko_data += " ";
+                }
+
+                for (let x = 0; x < kumiko_width; ++x) {
+                    let symbol_index = 0;
+
+                    if (kumiko_horizontal) {
+                        symbol_index += x + Math.floor(y / kumiko_shift_a) * kumiko_shift_b;
+                    }
+                    if (kumiko_vertical) {
+                        symbol_index += y + Math.floor(x / kumiko_shift_c) * kumiko_shift_d;
+                    }
+
+                    let kumiko_symbol = kumiko_symbols[rem_euclid(symbol_index, kumiko_symbols.length)];
+
+                    if (kumiko_alternate) {
+                        kumiko_data += ((x + y) % 2 == kumiko_parity) ?
+                            kumiko_symbol.toUpperCase() :
+                            kumiko_symbol.toLowerCase();
+                    } else {
+                        kumiko_data += kumiko_symbol;
+                    }
+                }
+
+                kumiko_data += "\n";
+            }
+
+            $("kumiko_data").cols = kumiko_width + 1;
+            $("kumiko_data").rows = kumiko_height + 1;
+            $("kumiko_data").value = kumiko_data;
+            $("kumiko_data").style.lineHeight = kumiko_condensed ? "50%" : "100%";
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            $("kumiko_symbols").addEventListener("change", refresh_kumiko);
+            $("kumiko_width").addEventListener("change", refresh_kumiko);
+            $("kumiko_height").addEventListener("change", refresh_kumiko);
+            $("kumiko_alternate").addEventListener("change", refresh_kumiko);
+            $("kumiko_parity").addEventListener("change", refresh_kumiko);
+            $("kumiko_condensed").addEventListener("change", refresh_kumiko);
+            $("kumiko_stagger").addEventListener("change", refresh_kumiko);
+            $("kumiko_horizontal").addEventListener("change", refresh_kumiko);
+            $("kumiko_vertical").addEventListener("change", refresh_kumiko);
+            $("kumiko_shift_a").addEventListener("change", refresh_kumiko);
+            $("kumiko_shift_b").addEventListener("change", refresh_kumiko);
+            $("kumiko_shift_c").addEventListener("change", refresh_kumiko);
+            $("kumiko_shift_d").addEventListener("change", refresh_kumiko);
+
+            refresh_kumiko();
+        });
+    </script>
+</head>
+<body>
+    <div>
+        <label for="kumiko_symbol">Symbols:</label>
+        <input type="text" id="kumiko_symbols" value="gfha"/>
+    </div>
+
+    <div>
+        <label for="kumiko_width">Width:</label>
+        <input type="number" id="kumiko_width" min="1" value="10"/>
+    </div>
+
+    <div>
+        <label for="kumiko_height">Height:</label>
+        <input type="number" id="kumiko_height" min="1" value="9"/>
+    </div>
+
+    <div>
+        <label for="kumiko_alternate">Alternate:</label>
+        <input type="checkbox" id="kumiko_alternate" checked="true"/>
+
+        <label for="kumiko_parity">Parity:</label>
+        <input type="checkbox" id="kumiko_parity" checked="true"/>
+
+        <label for="kumiko_condensed">Condensed:</label>
+        <input type="checkbox" id="kumiko_condensed" checked="true"/>
+
+        <label for="kumiko_stagger">Stagger:</label>
+        <input type="checkbox" id="kumiko_stagger"/>
+    </div>
+
+    <div>
+        <label for="kumiko_horizontal">Horizontal:</label>
+        <input type="checkbox" id="kumiko_horizontal"/>
+
+        <label for="kumiko_shift_a">Shift A:</label>
+        <input type="number" id="kumiko_shift_a" min="1" value="1"/>
+
+        <label for="kumiko_shift_b">Shift B:</label>
+        <input type="number" id="kumiko_shift_b" value="0"/>
+    </div>
+
+
+    <div>
+        <label for="kumiko_vertical">Vertical:</label>
+        <input type="checkbox" id="kumiko_vertical" checked="true"/>
+
+        <label for="kumiko_shift_c">Shift C:</label>
+        <input type="number" id="kumiko_shift_c" min="1" value="2"/>
+
+        <label for="kumiko_shift_d">Shift D:</label>
+        <input type="number" id="kumiko_shift_d" value="2"/>
+    </div>
+
+    <textarea id="kumiko_data" spellcheck="false"></textarea>
+</body>
+</html>
