@@ -57,6 +57,7 @@
                     if (kumiko_horizontal) {
                         symbol_index += x + Math.floor(y / kumiko_shift_a) * kumiko_shift_b;
                     }
+
                     if (kumiko_vertical) {
                         symbol_index += y + Math.floor(x / kumiko_shift_c) * kumiko_shift_d;
                     }
@@ -91,6 +92,7 @@
             ].forEach((id) => {
                 $(id).addEventListener("change", refresh_kumiko);
             });
+
             refresh_kumiko();
         });
     </script>
@@ -135,7 +137,6 @@
         <label for="kumiko_shift_b">Shift B:</label>
         <input type="number" id="kumiko_shift_b" value="0"/>
     </div>
-
 
     <div>
         <label for="kumiko_vertical">Vertical:</label>
