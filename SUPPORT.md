@@ -27,6 +27,7 @@
 | ❌ | Onshape                | Only supports built-in fonts. Has multiline text support but no line-spacing options. No variable font axis support.
 | ❌ | PrusaSlicer 2.9.2      | Silently classifies CFF2 variable fonts as "bad fonts" (their terminology). Caches its naughty list in `fonts.cereal` without proper invalidation on font data changes. Only supports legacy font formats.
 | ❌ | Penpot 2.7.2           | Silently refuses CFF2 variable fonts on the "Upload custom fonts" page. Dumps the following error to the developer console: `WRN [app.main.data.fonts] msg="skipping file KumikoPunch.otf, unsupported format"`. Only shows the default font weight for legacy variable fonts.
+| ❌ | Graphite Alpha 4       | Text tool is broken, cannot change font properties. Only supports built-in fonts. No variable font axis support, only lists named instances.
 | ❌ | Akira 0.0.16           | Early development release has no functional text tools yet.
 | ❌ | Scribus 1.6.3          | No CFF2 variable font support. Font is not listed in the font selector.
 | ❌ | MyPaint 2.0.1          | No text tools.
