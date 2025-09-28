@@ -15,7 +15,7 @@
 | ⚠️ | PixiEditor 2.0 Beta    | No variable font axis support, only default weight works. Line-spacing is moronic, changing the font size automatically changes the line-spacing non-proportionally.
 | ⚠️ | Karbon 25.04.3         | No variable font axis support, only default weight works. Line-spacing is moronic, proportional spacing cannot go below 85%, fixed spacing is hard to set properly.
 | ⚠️ | Blender 4.5.0          | No variable font axis support, only default weight works. No Boolean operations on text objects, must be converted to meshes.
-| ❌ | Photopea 5.6           | Has variable font support but CFF2 outlines are broken. Only legacy glyph formats work.
+| ❌ | Photopea 5.6           | Has variable font support but CFF2 outlines are broken. Only legacy glyph formats work. [(Bug report)](https://github.com/photopea/photopea/issues/8023)
 | ❌ | KolourPaint 25.04.3    | No variable font axis support, only default weight works. No line-spacing options, default spacing is off.
 | ❌ | LazPaint 7.2.2         | No variable font axis support, only Regular and Bold weight works. No line-spacing options, default spacing is off.
 | ❌ | FreeCAD 1.0.1          | No multiline text support, no variable font axis support.
@@ -30,6 +30,7 @@
 | ❌ | Graphite Alpha 4       | Text tool is broken, cannot change font properties. Only supports built-in fonts. No variable font axis support, only lists named instances.
 | ❌ | Akira 0.0.16           | Early development release has no functional text tools yet.
 | ❌ | Scribus 1.6.3          | No CFF2 variable font support. Font is not listed in the font selector.
+| ❌ | Typst 0.13.1           | No CFF2 variable font support. [(Bug report)](https://github.com/typst/typst/issues/6739)
 | ❌ | MyPaint 2.0.1          | No text tools.
 | 💥 | Dune 3D 1.3.0          | Font selector crashes.
 | 💥 | Dia 0.98               | Text properties window crashes.
