@@ -26,6 +26,8 @@
 | ❌ | SketchUp Free          | Only supports built-in fonts.
 | ❌ | Onshape                | Only supports built-in fonts. Has multiline text support but no line-spacing options. No variable font axis support.
 | ❌ | PrusaSlicer 2.9.2      | Silently classifies CFF2 variable fonts as "bad fonts" (their terminology). Caches its naughty list in `fonts.cereal` without proper invalidation on font data changes. Only supports legacy font formats.
+| ❌ | Bambu Studio 2.4.0.70  | No CFF2 variable font support. No multiline text support. (`fonts.cereal`)
+| ❌ | OrcaSlicer 2.3.1       | No CFF2 variable font support. Has multiline text support but line-spacing is moronic. (`fonts.cereal`)
 | ❌ | Penpot 2.7.2           | Silently refuses CFF2 variable fonts on the "Upload custom fonts" page. Dumps the following error to the developer console: `WRN [app.main.data.fonts] msg="skipping file KumikoPunch.otf, unsupported format"`. Only shows the default font weight for legacy variable fonts.
 | ❌ | Graphite Alpha 4       | Text tool is broken, cannot change font properties. Only supports built-in fonts. No variable font axis support, only lists named instances.
 | ❌ | Akira 0.0.16           | Early development release has no functional text tools yet.
@@ -46,7 +48,6 @@
 | ❌❔ | MediBang Paint         | No desktop license, couldn't test this. The ad infested Android version could only load built-in fonts and didn't seem to have variable font support.
 | ❌❔ | SolidWorks             | No license, couldn't test this. Based on random screenshots it doesn't seem to support variable fonts and line-spacing options.
 | ❌❔ | Paint.NET              | Based on its documentation it doesn't seem to support variable fonts.
-| ❌❔ | Bambu Studio           | Based on a GitHub feature request it doesn't seem to support multiline text.
 
 ## Legend
 
